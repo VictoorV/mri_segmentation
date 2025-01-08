@@ -4,7 +4,7 @@ U-Net implementation in PyTorch for MRI segmentation
 
 ## Data
 
-Dataset from Kaggle: [kaggle.com/mateuszbuda/lgg-mri-segmentation](https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation).
+Dataset from Kaggle : [kaggle.com/mateuszbuda/lgg-mri-segmentation](https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation).
 
 ## Results
 
